@@ -51,7 +51,7 @@ This project uses these TVMaze endpoints:
 
 ## Links to Add
 
-- GitHub repository: 
-- Live website: 
+- GitHub repository: https://github.com/abdulalnakib/Movie-Explorer.git
+- Live deployment: 
 
 Show data comes from the [TVMaze API](https://www.tvmaze.com/api).

@@ -33,7 +33,7 @@ const MainLayout = () => {
           <div className="flex items-center gap-4">
             <span>© 2026 MovieExplorer</span>
             <a
-              href="https://github.com/"
+              href="https://github.com/abdulalnakib/Movie-Explorer.git"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-1.5 font-semibold text-base-content/70 hover:text-base-content hover:underline"
