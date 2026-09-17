@@ -52,6 +52,6 @@ This project uses these TVMaze endpoints:
 ## Links to Add
 
 - GitHub repository: https://github.com/abdulalnakib/Movie-Explorer.git
-- Live deployment: 
+- Live deployment: movie-explorer-seven-lake.vercel.app
 
 Show data comes from the [TVMaze API](https://www.tvmaze.com/api).
