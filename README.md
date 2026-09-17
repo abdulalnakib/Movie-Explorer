@@ -19,6 +19,10 @@ A movie and TV show browsing website made with React. You can browse shows, sear
 - DaisyUI
 - TVMaze API
 
+## Deployed With
+
+- Vercel
+
 ## Running the Project
 
 Install the packages first:
